@@ -27,17 +27,19 @@ Automate enemy detection and clicking in Counter-Strike: Global Offensive using 
 
 
 2. **Navigate to the project directory:**
-cd Clicker
+   ```bash
+   cd Clicker
 
 
-3. **Run the script:**
-python Clicker.py
+4. **Run the script:**
+   ```bash
+   python Clicker.py
 
 
-Configuration:
+## Configuration:
 Customize the rules in the should_click function in main.py. Adjust the window size in the capture_game_window function if needed.
 
-Notes:
+## Notes:
 Ensure Counter-Strike: Global Offensive is running and visible. Adjust the window title in capture_game_window based on your game window title.
 
 
