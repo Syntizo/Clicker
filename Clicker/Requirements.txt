@@ -1,0 +1,7 @@
+- Python 3
+- OpenCV
+- PyGetWindow
+- NumPy
+- Mediapipe
+- PyAutoGUI
+- MSS (Screen Capture Library)
