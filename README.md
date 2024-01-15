@@ -21,14 +21,18 @@ Automate enemy detection and clicking in Counter-Strike: Global Offensive using 
 
 ## Usage
 
-# 1. Clone the repository:
-git clone https://github.com/your-username/Clicker.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/Clicker.git
+
 
 # 2. Navigate to the project directory:
 cd Clicker
 
+
 # 3. Run the script:
 python Clicker.py
+
 
 Configuration:
 Customize the rules in the should_click function in main.py. Adjust the window size in the capture_game_window function if needed.
